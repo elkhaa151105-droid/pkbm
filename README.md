@@ -187,11 +187,4 @@ pkbm/
 
 ---
 
-## 📞 Dukungan
-
-Untuk pertanyaan dan dukungan teknis:
-- Email: pkbm.sariasih@gmail.com
-
----
-
-*Sistem Informasi PKBM Sari Asih v1.0.0*
+## Link YouTube Penjelasan 
