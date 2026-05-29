@@ -188,4 +188,4 @@ pkbm/
 ---
 
 ## Link YouTube Penjelasan 
-link penjelasan dalam proses editing
+https://youtu.be/fbHbr9kjM38
